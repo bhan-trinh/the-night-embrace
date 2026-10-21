@@ -1,7 +1,13 @@
 ﻿# The Night Embrace
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb8132a3-8a3a-4b75-8ca5-8f92e27a00cf" />
+
 Welcome to the deepest corner of your mind. 
 
+
 # Instructions
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d030242a-0d3f-4a67-b352-a3c21e798ebf" />
+
 - Z - Attack with Lantern/Use other items
 - X - Eat (Apple restores 1 heart)
 - 1, 2, 3, 4, 5 - 1st to 5th Inventory slot
