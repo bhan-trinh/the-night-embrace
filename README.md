@@ -2,9 +2,10 @@
 Welcome to the deepest corner of your mind. 
 
 # Instructions
-Z - Attack with Lantern/Use other items
-X - Eat (Apple restores 1 heart)
-1, 2, 3, 4, 5 - 1st to 5th Inventory slot
+- Z - Attack with Lantern/Use other items
+- X - Eat (Apple restores 1 heart)
+- 1, 2, 3, 4, 5 - 1st to 5th Inventory slot
+
 (If this inventory keys setting doesn't work for you, download the alternate version for C, V, B, N, M  keys)
 
 
