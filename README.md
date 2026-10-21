@@ -2,7 +2,6 @@
 Welcome to the deepest corner of your mind. 
 
 # Instructions
----
 Z - Attack with Lantern/Use other items
 X - Eat (Apple restores 1 heart)
 1, 2, 3, 4, 5 - 1st to 5th Inventory slot
@@ -11,13 +10,11 @@ X - Eat (Apple restores 1 heart)
 
 
 # Tips
----
 - There are 2 endings, depending on how the puzzles are solved.
 - Resetting a level will reset your progress and inventory.
 - Going through a portal will move on to the next level and restore all Hearts, but be careful because you cannot go back. You will keep your inventory after all levels (except for the tutorial).
 
 # Assets
----
 Tilemap
 - Sprout Lands - Asset Pack by https://cupnooble.itch.io/
 
